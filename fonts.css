@@ -6,13 +6,13 @@
 }
 @font-face {
    font-family: "Avenir Heavy";
-   src: url("fonts/Avenir Book.woff2") format("woff2");
+   src: url("fonts/Avenir Heavy.woff2") format("woff2");
    font-weight: normal;
    font-style: normal;
 }
 @font-face {
    font-family: "Avenir Next Medium";
-   src: url("fonts/Avenir Next Regular.woff2") format("woff2");
+   src: url("fonts/Avenir Next Medium.woff2") format("woff2");
    font-weight: normal;
    font-style: normal;
 }
